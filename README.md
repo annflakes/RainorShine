@@ -15,5 +15,5 @@ A simple and dynamic weather forecast website that displays real-time weather co
 1. Enter a city name on the homepage.
 2. Click "Submit" to see live weather data.
 3. The background changes based on the weather.
-    Author
-  Ann Mary Sabu
+ ✨ Author
+      Ann Mary Sabu
